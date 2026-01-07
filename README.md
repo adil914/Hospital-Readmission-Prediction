@@ -6,16 +6,11 @@ This project implements machine learning models to predict hospital readmission 
 
 🔧 Requirements
 Python 3.x
-
 pandas
-
 scikit-learn
-
 numpy
 
 📈 Features
 Data preprocessing for medical records
-
 Multiple ML algorithms for prediction
-
 Performance evaluation metrics
